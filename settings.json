@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "HeartBrokenBot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "HeartBrokenSeason1.aternos.me",
+    "port": 36737,
     "version": "1.20.1",
     "try-creative": false
   },
